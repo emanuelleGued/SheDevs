@@ -39,9 +39,8 @@ Este projeto visa aplicar os conhecimentos adquiridos durante o minicurso, promo
 A aplicação deverá conter:
 
 - Página inicial com layout e estilos baseados no protótipo;
-- Menu de navegação funcional;
 - Código limpo e organizado;
-- Elementos estilizados com **CSS puro** (sem frameworks);
+- Elementos estilizados com **CSS**;
 - Possibilidade de expansão futura com JavaScript (opcional, **não obrigatório** neste momento).
 
 
@@ -59,8 +58,7 @@ shedevs/
 
 ## Dicas para o desenvolvimento
 
-- Use comentários no código para facilitar a compreensão;
-- Nomeie suas classes e arquivos de forma descritiva;
-- Compartilhe a tarefa entre os integrantes do grupo de forma equilibrada;
+- Nomeie seus arquivos de forma descritiva;
+- Divida a tarefa entre os integrantes do grupo de forma equilibrada;
 - Faça commits frequentes e com mensagens claras;
 - Crie branches com nomes claros e descritivos, alinhados às tarefas.
