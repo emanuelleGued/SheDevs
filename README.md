@@ -43,6 +43,61 @@ A aplicação deverá conter:
 - Elementos estilizados com **CSS**;
 - Possibilidade de expansão futura com JavaScript (opcional, **não obrigatório** neste momento).
 
+## Divisão das Tarefas
+
+O desenvolvimento da página será dividido entre 4 grupos. Cada grupo ficará responsável por uma parte específica do site, com HTML e CSS próprios. Ao final, todas as partes serão integradas na `index.html` e `styles.css`.
+
+Cada grupo deverá criar uma branch específica para sua tarefa e, ao final, abrir um Pull Request para mesclar no repositório principal.
+
+### Issues para os grupos
+
+#### Grupo 1 – Cabeçalho e Introdução
+
+- Criar o título principal “SheDev/s” com destaque para a letra “s”
+- Aplicar fontes do Google Fonts (`Permanent Marker` e `League Spartan`)
+- Estilizar o título com cores e alinhamento central
+- Estruturar o container principal da página
+- Estilizar o `body` e o `.container` para centralização e padding
+
+    **Issue:** `#1 - Criar estrutura do cabeçalho com título e fonte personalizada`
+
+
+#### Grupo 2 – Seções de Apresentação (Primeira e Segunda caixa)
+
+- Criar duas seções com os títulos:
+  - "Por que o SheDev/s foi criado?"
+  - "Onde foi criado?"
+- Inserir os parágrafos descritivos
+- Estilizar as caixas com cores de fundo diferentes, bordas arredondadas e padding
+- Utilizar `display: flex` para deixar as caixas lado a lado e responsivas
+
+    **Issue:** `#2 - Desenvolver seção de apresentação com duas caixas informativas`
+
+
+#### Grupo 3 – Objetivo e Lista
+
+- Criar a seção "Qual é o objetivo do SheDev/s?"
+- Inserir parágrafo explicativo e lista com os cinco objetivos do projeto
+- Estilizar com fundo laranja (#EB5D40), espaçamento e padding
+- Ajustar listas para visual atrativo e responsivo
+
+    **Issue:** `#3 - Implementar seção de objetivos com lista estilizada`
+
+
+#### Grupo 4 – Ações e Galeria de Imagens
+
+- Criar a seção com subtítulo “Ações com grande importância do projeto”
+- Inserir 4 blocos de imagem com legenda:
+  - Evento Mulher Tech 2024
+  - Mini Hackathon
+  - Aprovação no Edital CNPq
+  - Evento Mulher Tech 2025
+- Estilizar imagens com bordas arredondadas e sombras
+- Criar o texto final de convite: “Venha fazer parte você também!”
+
+    **Issue:** `#4 - Criar galeria de ações com imagens e convite final`
+
+
 
 ## Estrutura sugerida do projeto
 
