@@ -10,12 +10,12 @@ Este projeto visa aplicar os conhecimentos adquiridos durante o minicurso, promo
 
 ## Protótipo
 
- Link do protótipo no Figma (ou ferramenta similar):  
+Link do protótipo no Figma (ou ferramenta similar):  
 [**Acesse o protótipo aqui**](https://www.figma.com/design/btS0N0y9BZfVXfLypPWwRl/Git-na-pr%C3%A1tica---SheDevs)
 
 ## Repositório do Projeto
 
- Repositório oficial no GitHub:  
+Repositório oficial no GitHub:  
 [**Acesse o repositório aqui**](https://github.com/emanuelleGued/SheDevs.git)
 
 ---
@@ -51,28 +51,28 @@ Cada grupo deverá criar uma branch específica para sua tarefa e, ao final, abr
 
 ### Issues para os grupos
 
-#### Grupo 1 – Cabeçalho e Introdução
+#### Grupo 1 – Cabeçalho e Primeira Seção
 
 - Criar o título principal “SheDev/s” com destaque para a letra “s”
 - Aplicar fontes do Google Fonts (`Permanent Marker` e `League Spartan`)
 - Estilizar o título com cores e alinhamento central
 - Estruturar o container principal da página
 - Estilizar o `body` e o `.container` para centralização e padding
-
-    **Issue:** `#1 - Criar estrutura do cabeçalho com título e fonte personalizada`
-
-
-#### Grupo 2 – Seções de Apresentação (Primeira e Segunda caixa)
-
-- Criar duas seções com os títulos:
+- Criar a seção com o título:
   - "Por que o SheDev/s foi criado?"
+- Inserir parágrafo descritivo correspondente
+
+  **Issue:** `#1 - Criar estrutura do cabeçalho e primeira seção com título e fonte personalizada`
+
+#### Grupo 2 – Segunda Seção
+
+- Criar a seção com o título:
   - "Onde foi criado?"
-- Inserir os parágrafos descritivos
-- Estilizar as caixas com cores de fundo diferentes, bordas arredondadas e padding
-- Utilizar `display: flex` para deixar as caixas lado a lado e responsivas
+- Inserir parágrafo descritivo correspondente
+- Estilizar a caixa com cor de fundo diferente, bordas arredondadas e padding
+- Utilizar `display: flex` para deixar responsivo caso se insira ao lado de outra seção futuramente
 
-    **Issue:** `#2 - Desenvolver seção de apresentação com duas caixas informativas`
-
+  **Issue:** `#2 - Desenvolver segunda seção informativa com estilização e responsividade`
 
 #### Grupo 3 – Objetivo e Lista
 
@@ -81,8 +81,7 @@ Cada grupo deverá criar uma branch específica para sua tarefa e, ao final, abr
 - Estilizar com fundo laranja (#EB5D40), espaçamento e padding
 - Ajustar listas para visual atrativo e responsivo
 
-    **Issue:** `#3 - Implementar seção de objetivos com lista estilizada`
-
+  **Issue:** `#3 - Implementar seção de objetivos com lista estilizada`
 
 #### Grupo 4 – Ações e Galeria de Imagens
 
@@ -95,9 +94,9 @@ Cada grupo deverá criar uma branch específica para sua tarefa e, ao final, abr
 - Estilizar imagens com bordas arredondadas e sombras
 - Criar o texto final de convite: “Venha fazer parte você também!”
 
-    **Issue:** `#4 - Criar galeria de ações com imagens e convite final`
+  **Issue:** `#4 - Criar galeria de ações com imagens e convite final`
 
-
+---
 
 ## Estrutura sugerida do projeto
 
@@ -109,7 +108,6 @@ shedevs/
 ├── images/
 ├── README.md
 ```
-
 
 ## Dicas para o desenvolvimento
 
