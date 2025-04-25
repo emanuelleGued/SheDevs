@@ -13,6 +13,26 @@ body {
     color: #333;
   }
 
+  .titulo {
+    color: #de3d82;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .titulo span {
+    color: #ff6f61;
+  }
+  
+  .subtitulo {
+    text-align: center;
+    color: #e74393;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2em;
+    margin-top: 40px;
+  }
+
   .caixas {
     display: flex;
     flex-wrap: wrap;
@@ -26,8 +46,8 @@ body {
     padding: 20px;
     border-radius: 10px;
     color: rgb(255, 255, 255);
+
   }
-  
   .caixa h2 {
     font-family: 'Permanent Marker', cursive;
     margin-bottom: 10px;
@@ -42,4 +62,7 @@ body {
   .segunda {
     background-color: #e6534f;
     flex: 0.8;
+  }
+  .primeira {
+    background-color: #E6534F;
   }
