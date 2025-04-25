@@ -8,7 +8,7 @@ body {
   .container {
     width: 90%;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 0 auto; 
     padding: 20px;
     color: #333;
   }
@@ -45,9 +45,9 @@ body {
     min-width: 300px;
     padding: 20px;
     border-radius: 10px;
-    color: white;
+    color: rgb(255, 255, 255);
+
   }
-  
   .caixa h2 {
     font-family: 'Permanent Marker', cursive;
     margin-bottom: 10px;
@@ -59,6 +59,10 @@ body {
     line-height: 1.4;
   }
 
+  .segunda {
+    background-color: #e6534f;
+    flex: 0.8;
+  }
   .primeira {
     background-color: #E6534F;
   }
